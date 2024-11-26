@@ -1,0 +1,6 @@
+[submodule "Test/External/tinynurbs"]
+	path = Test/External/tinynurbs
+	url = https://github.com/pradeep-pyro/tinynurbs.git
+[submodule "Test/External/doctest"]
+	path = Test/External/doctest
+	url = https://github.com/doctest/doctest.git
